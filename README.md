@@ -45,6 +45,6 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=faa-subsystem&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faa-subsystem&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5)
 
 [website]: https://sites.google.com/view/faurys-portfolio/home
