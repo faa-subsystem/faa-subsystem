@@ -6,7 +6,7 @@
 
 Welcome! I’m a seasoned IT professional with 7+ years of hands-on experience solving complex challenges and optimizing organizational performance. My journey has taken me from help-desk support to leading cybersecurity initiatives, giving me a well-rounded fluency in both hardware and software systems.
 
-### Core Expertise
+### 📚 Core Expertise
 
 #### Hardware troubleshooting & system administration
 #### Cybersecurity strategy & SIEM analysis
