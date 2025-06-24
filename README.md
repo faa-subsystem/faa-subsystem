@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-**faa-subsystem/faa-subsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 🏄‍♂️ Faa-Subsystem
 
 **`Application Support Analyst | System Adminstrator | SOC Analyst`**
@@ -30,12 +14,13 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faa-subsystem&label=Profile%20views&color=0e75b6&style=flat" alt="faa-subsystem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faa-subsystem" alt="faa-subsystem" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faa-subsystem" alt="faa-subsystem" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/faabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faabreu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@flashrayacondic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@flashrayacondic1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faury-a-abreu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="faury-a-abreu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
