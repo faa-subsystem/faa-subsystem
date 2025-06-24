@@ -20,7 +20,7 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 <p align="left">
 <a href="https://kaggle.com/faabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faabreu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@flashrayacondic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@flashrayacondic1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/faury-a-abreu/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-username-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faury-a-abreu/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-faury-a-abreu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
