@@ -34,7 +34,7 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[Report of Forensics Analysis of a C2 Attack](https://lh3.googleusercontent.com/Y1gZw0Kd7AnJZHrqXsqHa6mFQC3BUGP4VJX7_b1Zwy7YEBpqIKfVi0R2ZkCM03DqGpiLe1kXIN1xeySP5wijv-CMfAZSESyoSldq_0Nhvpqrj5a9ikIroV1W681YLOCsXM87DJsZhypPr24-vx76kFXtlAosZ7PJLx9I0MhkIkDGXUQd_OgZJA=w1280)](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
+[![Report of Forensics Analysis of a C2 Attack](https://lh3.googleusercontent.com/Y1gZw0Kd7AnJZHrqXsqHa6mFQC3BUGP4VJX7_b1Zwy7YEBpqIKfVi0R2ZkCM03DqGpiLe1kXIN1xeySP5wijv-CMfAZSESyoSldq_0Nhvpqrj5a9ikIroV1W681YLOCsXM87DJsZhypPr24-vx76kFXtlAosZ7PJLx9I0MhkIkDGXUQd_OgZJA=w1280)](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
 
 
 
