@@ -34,8 +34,10 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-![![image](https://github.com/user-attachments/assets/7410cea1-bafe-43f7-a969-b04325f984ae)
-Report of Forensics Analysis of a C2 Attack](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
+![🔎 Report of Forensics Analysis of a C2 Attack](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
+![🔎 Volatile forensics with Volatility](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
+![🐛 Pen-Testing Lab with VPN in Virtualbox](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
+![📉 Implementation of an Active Directory server with Windows server 20219](https://sites.google.com/view/faurys-portfolio/it-specialist#h.hn1sasg97bi0)
 
 
 
@@ -43,6 +45,6 @@ Report of Forensics Analysis of a C2 Attack](https://sites.google.com/view/faury
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=faa-subsystem&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=faa-subsystem&theme=gruvbox&border_radius=4.5)
 
 [website]: https://sites.google.com/view/faurys-portfolio/home
