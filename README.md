@@ -34,10 +34,10 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[🔎 Report of Forensics Analysis of a C2 Attack](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
-[🔎 Volatile forensics with Volatility](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
-[🐛 Pen-Testing Lab with VPN in Virtualbox](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
-[📉 Implementation of an Active Directory server with Windows server 20219](https://sites.google.com/view/faurys-portfolio/it-specialist#h.hn1sasg97bi0)
+#### [🔎 Report of Forensics Analysis of a C2 Attack](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.j6r8dcu3boaz)
+#### [🔎 Volatile forensics with Volatility](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
+#### [🐛 Pen-Testing Lab with VPN in Virtualbox](https://sites.google.com/view/faurys-portfolio/cybersecurity#h.n3y3yl7qjrxs)
+#### [📉 Implementation of an Active Directory server with Windows server 20219](https://sites.google.com/view/faurys-portfolio/it-specialist#h.hn1sasg97bi0)
 
 
 
