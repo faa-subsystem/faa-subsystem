@@ -21,8 +21,9 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 <a href="https://kaggle.com/faabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faabreu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@flashrayacondic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@flashrayacondic1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faury-a-abreu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/faury.a./vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/FauryA" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:552/1*5J7PQMf9-Ht4P10rV1_lFw.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/faury.a./vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="40" width="40" /></a>
+<a href="https://tryhackme.com/p/FauryA" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:552/1*5J7PQMf9-Ht4P10rV1_lFw.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="40" width="40" /></a>
+   <a href="https://sites.google.com/view/faurys-portfolio" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/business-portfolio-icon-vector-image-can-be-used-product-management_120816-113090.jpg?style=for-the-badge&logo=linkedin&logoColor=white" alt="faury-a-abreu" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
