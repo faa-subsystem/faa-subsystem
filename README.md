@@ -43,7 +43,7 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 
 ### 📊 Stats
 
-[![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=faa-subsystem&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
+<!--[![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=faa-subsystem&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)-->
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=faa-subsystem&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=faa-subsystem&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
