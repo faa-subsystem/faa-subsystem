@@ -24,6 +24,7 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 <!-- BEGIN YOUTUBE-CARDS -->
 #### [🏡 House Price Estimator App](https://github.com/faa-subsystem/house-price-predictor)
 #### [🚗 Vehicle Prices Predictor](https://github.com/faa-subsystem/Machine_Learning-Vehicle_Price_Predictor-Python)
+#### [💛 Data Analisys of the Happiness Index in multiple countries](https://github.com/faa-subsystem/Data_Analisys_Project-World_Happiness_Index_Analysis)
 
 
 
