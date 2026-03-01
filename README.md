@@ -19,6 +19,13 @@ I thrive on continuous learning, enjoy collaborating on innovative solutions, an
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faa-subsystem&label=Profile%20views&color=0e75b6&style=flat" alt="faa-subsystem" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faa-subsystem" alt="faa-subsystem" /></a> </p> -->
+### 📺 Python Projects
+
+<!-- BEGIN YOUTUBE-CARDS -->
+#### [🏡 House Price Estimator App](https://github.com/faa-subsystem/house-price-predictor)
+#### [🚗 Vehicle Prices Predictor](https://github.com/faa-subsystem/Machine_Learning-Vehicle_Price_Predictor-Python)
+
+
 
 ### 📺 Latest Projects
 
