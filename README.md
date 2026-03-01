@@ -4,12 +4,12 @@
 
 **`IT Specialist | SOC Analyst `**
 
-Welcome! I’m a seasoned IT professional with 7+ years of hands-on experience solving complex challenges and optimizing organizational performance. My journey has taken me from help-desk support to leading cybersecurity initiatives, giving me a well-rounded fluency in both hardware and software systems.
+<!--Welcome! I’m a seasoned IT professional with 7+ years of hands-on experience solving complex challenges and optimizing organizational performance. My journey has taken me from help-desk support to leading cybersecurity initiatives, giving me a well-rounded fluency in both hardware and software systems.-->
 
 ### 📚 Core Expertise
 
 #### Hardware Troubleshooting and Systems Administration
-#### Python for APIs, Data Science, Automation, and Innovation
+#### Python for APIs, Data Science, Automation, and Fun!
 #### Scripting for Optimization and Automation
 #### Cybersecurity Analytics and SIEM
 #### Data Analytics, Visualization, and Machine Learning
